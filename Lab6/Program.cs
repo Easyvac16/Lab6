@@ -2,9 +2,10 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            cs1.task_1();
+            cs2.task_2();
         }
     }
 }
